@@ -1,3 +1,4 @@
 some coffee added
 
-add 1
+add 1 coffee
+2coffee added
